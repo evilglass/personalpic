@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T10:29:12.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="D3_N1ir-M3vNLdvOypvx" version="14.8.1" type="github"><diagram id="DslNUmO4b-G7ix87V8Ez" name="Page-1">3VbbjpswEP0aPyYCQ7g85tpW28u2W7XPjm3AuwZT42yy/fraYBIIrHZbpVHVCCn28XgGn+OZAXjL/PBGojL7IAjlADrkALwVgND1IQTmcchTg4ShBVLJiDU6AXfsJ7WgY9EdI7TqGSohuGJlH8SiKChWPQxJKfZ9s0TwftQSpXQA3GHEh+h3RlTWoBEMT/hbytKsjewGcbOSo9bYnqTKEBH7DuStgbeUQqhmlB+WlBvyWl6afZtnVo8vJmmhXrPh3e23L8VHrH5Mvt7ATxzdFzefJ9bLI+I7e2Cw9sEiBgunHmxAvALrGMQxmNuDVeqpJUeKXUGo8e8Ab7HPmKJ3JcJmda+vg8YylXM9c/UwEYWy+prDN3Prq15nnC8FF7L27SUJDTDWeKWkeKCdFRLGW8cEtO9OpaKHZ0lxj1TrO0pFTpV80ibthtCqY6/nUa39SWy3xbKO0IHFkL1f6dH1SQI9sCr8hiJwXJEViD2wDsDcA5FzVSEIolEyKkSAI7pNLiOE7/r/mBDeUIhz2nVKl2aYcHqYm2KjuaAFscMV5qiqGO6z3zihZFB2XmSqw8RshIgWk5QjxR777sfYsRFuBdOBj0J48Cwj/Hg66zupxE5iavd1K865q/hFVwrJlKqBq1qw49H/XEP/9RqyvO4EXanMhWa6Fcw5SwuNKVF20PdoS/mtqJhiwqxuhVIi1wbcLCwQfkjrtOzVNPPTJnWweVU2HcvkLGonCTuYRF7Y91llSplWNzfcwA0mhT9lutklTCe8nGIdEW4IUkj/GbzS/zQX92ziRnoYaP03EE5cGE3LIh3J/gvkruee6RwPczccubHh30rd2UgNnYFIP9FAf+1Of0vQl8vmQKEuk85YA0vgMw0s2Aaz4DLcQ6fPvesPuQ+uWTaDUe71jYjW/xv3vu9fi3s9PX0pNtXx9L3trX8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-25T10:44:40.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kZWg3U1WT5ecy7JG-prA" version="14.8.1" type="github">
+  <diagram id="DslNUmO4b-G7ix87V8Ez" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IPVRnNctq-TK2OlajnKQ-1" value="买保险" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPVRnNctq-TK2OlajnKQ-2" value="体检" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="414" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPVRnNctq-TK2OlajnKQ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="249.5" as="sourcePoint" />
+            <mxPoint x="390" y="249.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPVRnNctq-TK2OlajnKQ-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/emoji-18/61/22-128.png;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="320" y="100" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IPVRnNctq-TK2OlajnKQ-5" value="先" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="200" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPVRnNctq-TK2OlajnKQ-6" value="后" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="444" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
